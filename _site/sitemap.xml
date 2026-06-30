@@ -5,12 +5,12 @@
     <lastmod>2026-06-30T04:55:15.187Z</lastmod>
   </url>
   <url>
-    <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-06-30T04:55:15.183Z</lastmod>
-  </url>
-  <url>
     <loc>https://your-website-url.example.com/about.html</loc>
     <lastmod>2026-06-30T04:55:15.199Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/index.html</loc>
+    <lastmod>2026-06-30T04:55:15.183Z</lastmod>
   </url>
   <url>
     <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
