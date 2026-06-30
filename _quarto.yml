@@ -15,8 +15,7 @@ website:
 format:
   html:
     theme:
-      - darkly
-      - brand
+      - pulse
     css: styles.css
 
 
